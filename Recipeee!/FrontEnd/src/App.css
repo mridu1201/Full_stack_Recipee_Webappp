@@ -1,0 +1,23 @@
+body{
+  background-image: url("https://png.pngtree.com/background/20210717/original/pngtree-cute-fast-food-truck-company-profile-picture-image_1443090.jpg"); 
+ background-size: 100%;
+ background-attachment: fixed; 
+} 
+  * {
+    scrollbar-width: auto;
+    scrollbar-color: #a091ee #fff480;
+  }
+
+  *::-webkit-scrollbar {
+    width: 17px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #ffc39b;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #a091ee;
+    border-radius: 10px;
+    border: 4px solid #c0b8ff;
+  }
